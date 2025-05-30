@@ -1,0 +1,22 @@
+@font-face {
+    font-family: 'ProximaNova';
+    src: url('./Proxima Nova Reg.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'ProximaNova';
+    src: url('./Proxima Nova Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'ProximaNova';
+    src: url('./Proxima Nova Light It.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+}
+
+@import "tailwindcss";

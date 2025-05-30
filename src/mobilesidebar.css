@@ -1,0 +1,7 @@
+/* This ensures the active item has black text */
+
+.ps-menuitem-root.ps-active {
+    color: black !important;
+    font-weight: 600;
+    background-color: white !important;
+}

@@ -1,0 +1,6 @@
+/* sidebar.css */
+
+.ps-menuitem-root.ps-active>.ps-menu-button {
+    background-color: #000 !important;
+    color: #fff !important;
+}
